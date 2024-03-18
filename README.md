@@ -11,16 +11,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 **Database:** Mongo DB
   
-## Demo
-
-
-
-Clone the project
-
-```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
-```
-
+##Demo
 Go to the project directory
 
 ```bash
